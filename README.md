@@ -10,4 +10,4 @@ Just a link list with awesome iOS stuff
 ## Caching
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift)
 ## UI Components
-[Persei (Animated top menu for UITableView / UICollectionView / UIScrollView)](https://github.com/Yalantis/Persei)
+* [Persei (Animated top menu for UITableView / UICollectionView / UIScrollView)](https://github.com/Yalantis/Persei)
