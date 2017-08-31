@@ -7,7 +7,20 @@ Just a link list with awesome iOS stuff
 * [Convert HEX & RGB to UIColor object (in Objective-C and Swift)](http://uicolor.xyz/)
 
 # Swift Libraries
+
+## Animations
+* [Spring](https://github.com/MengTo/Spring)
 ## Caching
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift)
+## Lists
+* [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
+* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup)
+* [Persei](https://github.com/Yalantis/Persei)
+## Popups & Dialogs
+* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
+* [XLActionController](https://github.com/xmartlabs/XLActionController)
 ## UI Components
 * [Persei (Animated top menu for UITableView / UICollectionView / UIScrollView)](https://github.com/Yalantis/Persei)
+* [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)
+* [ExpandingCollection](https://github.com/Ramotion/expanding-collection)
+* [FoldingCell](https://github.com/Ramotion/folding-cell)
