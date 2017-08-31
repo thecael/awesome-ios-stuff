@@ -10,6 +10,8 @@ Just a link list with awesome iOS stuff
 
 ## Animations
 * [Spring](https://github.com/MengTo/Spring)
+## Colors
+* [Hue](https://github.com/hyperoslo/Hue)
 ## Caching
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift)
 ## Lists
@@ -24,3 +26,4 @@ Just a link list with awesome iOS stuff
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)
 * [ExpandingCollection](https://github.com/Ramotion/expanding-collection)
 * [FoldingCell](https://github.com/Ramotion/folding-cell)
+* [Eureka](https://github.com/xmartlabs/Eureka)
