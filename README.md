@@ -21,6 +21,8 @@ Just a link list with awesome iOS stuff
 ## Popups & Dialogs
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
 * [XLActionController](https://github.com/xmartlabs/XLActionController)
+## Debugging
+* [Hyperion] (https://github.com/willowtreeapps/Hyperion-iOS)
 ## UI Components
 * [Persei (Animated top menu for UITableView / UICollectionView / UIScrollView)](https://github.com/Yalantis/Persei)
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)
