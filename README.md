@@ -7,7 +7,8 @@ Just a link list with awesome iOS stuff
 * [Convert HEX & RGB to UIColor object (in Objective-C and Swift)](http://uicolor.xyz/)
 
 # Swift Libraries
-
+## Core Stuff
+* [Async](https://github.com/duemunk/Async)
 ## Animations
 * [Spring](https://github.com/MengTo/Spring)
 ## Colors
