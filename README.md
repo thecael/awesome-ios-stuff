@@ -31,3 +31,8 @@ Just a link list with awesome iOS stuff
 * [ExpandingCollection](https://github.com/Ramotion/expanding-collection)
 * [FoldingCell](https://github.com/Ramotion/folding-cell)
 * [Eureka](https://github.com/xmartlabs/Eureka)
+* [SkeletonView](https://github.com/Juanpe/SkeletonView)
+## Testing
+* [DVR](https://github.com/venmo/DVR)
+## Iconsets
+* [Feather](https://feathericons.com)
