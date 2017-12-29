@@ -32,6 +32,7 @@ Just a link list with awesome iOS stuff
 * [FoldingCell](https://github.com/Ramotion/folding-cell)
 * [Eureka](https://github.com/xmartlabs/Eureka)
 * [SkeletonView](https://github.com/Juanpe/SkeletonView)
+* [Cards](https://github.com/PaoloCuscela/Cards)
 ## Testing
 * [DVR](https://github.com/venmo/DVR)
 ## Iconsets
