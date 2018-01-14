@@ -11,6 +11,7 @@ Just a link list with awesome iOS stuff
 * [Async](https://github.com/duemunk/Async)
 ## Animations
 * [Spring](https://github.com/MengTo/Spring)
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)
 ## Colors
 * [Hue](https://github.com/hyperoslo/Hue)
 ## Caching
