@@ -30,6 +30,7 @@ Just a link list with awesome iOS stuff
 ## Layout
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints)
 ## UI Components
+* [Alert-Pickers](https://github.com/dillidon/Alerts-Pickers)
 * [Persei (Animated top menu for UITableView / UICollectionView / UIScrollView)](https://github.com/Yalantis/Persei)
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)
 * [ExpandingCollection](https://github.com/Ramotion/expanding-collection)
