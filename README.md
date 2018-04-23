@@ -29,6 +29,8 @@ Just a link list with awesome iOS stuff
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS)
 ## Layout
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints)
+## Text
+* [MarkupKit](https://github.com/gk-brown/MarkupKit)
 ## UI Components
 * [Alert-Pickers](https://github.com/dillidon/Alerts-Pickers)
 * [Persei (Animated top menu for UITableView / UICollectionView / UIScrollView)](https://github.com/Yalantis/Persei)
