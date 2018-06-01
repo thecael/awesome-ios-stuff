@@ -41,6 +41,7 @@ Just a link list with awesome iOS stuff
 * [SkeletonView](https://github.com/Juanpe/SkeletonView)
 * [Cards](https://github.com/PaoloCuscela/Cards)
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard)
+* [SwiftRichString](https://github.com/malcommac/SwiftRichString)
 ## Testing
 * [DVR](https://github.com/venmo/DVR)
 ## Iconsets
