@@ -28,6 +28,7 @@ Just a link list with awesome iOS stuff
 ## Debugging
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS)
 ## Layout
+* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints)
 ## Text
 * [MarkupKit](https://github.com/gk-brown/MarkupKit)
